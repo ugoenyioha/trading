@@ -1,6 +1,4 @@
 # trading
-algotrading
-
 
 ```
 2021-04-09 00:22:12 quantrocket.zipline: INFO                                         Date    Cumulative Returns    Sharpe Ratio    Max Drawdown    Cumulative PNL
