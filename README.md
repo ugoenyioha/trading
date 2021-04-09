@@ -1,6 +1,8 @@
 # trading
 algotrading
 
+
+```
 2021-04-09 00:22:12 quantrocket.zipline: INFO                                         Date    Cumulative Returns    Sharpe Ratio    Max Drawdown    Cumulative PNL
 2021-04-09 00:22:12 quantrocket.zipline: INFO [chris_uptrend]  ----------   1%  2010-02-01                   -6%           -2.85            -10%           $-12095
 2021-04-09 00:22:12 quantrocket.zipline: INFO [chris_uptrend]  ----------   1%  2010-03-01                    2%            0.71            -10%             $4452
@@ -137,3 +139,4 @@ algotrading
 2021-04-09 01:54:26 quantrocket.zipline: INFO [chris_uptrend]  ██████████  99%  2021-02-01                  503%            0.87            -26%          $1006576
 2021-04-09 01:55:46 quantrocket.zipline: INFO [chris_uptrend]  ██████████  99%  2021-03-01                  537%            0.88            -26%          $1073124
 2021-04-09 01:55:46 quantrocket.zipline: INFO [chris_uptrend]  ██████████ 100%  2021-03-31                  520%            0.85            -26%          $1039815
+```
